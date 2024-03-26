@@ -1,0 +1,44 @@
+bank,trans_type,date,f_path
+OCBC,debit,2022-04-01,C:\Users\shawn\PycharmProjects\BankStatementReader\Statements\360 ACCOUNT-5001-Apr-22.pdf
+OCBC,debit,2023-04-01,C:\Users\shawn\PycharmProjects\BankStatementReader\Statements\360 ACCOUNT-5001-Apr-23.pdf
+OCBC,debit,2022-08-01,C:\Users\shawn\PycharmProjects\BankStatementReader\Statements\360 ACCOUNT-5001-Aug-22.pdf
+OCBC,debit,2023-08-01,C:\Users\shawn\PycharmProjects\BankStatementReader\Statements\360 ACCOUNT-5001-Aug-23.pdf
+OCBC,debit,2022-12-01,C:\Users\shawn\PycharmProjects\BankStatementReader\Statements\360 ACCOUNT-5001-Dec-22.pdf
+OCBC,debit,2023-12-01,C:\Users\shawn\PycharmProjects\BankStatementReader\Statements\360 ACCOUNT-5001-Dec-23.pdf
+OCBC,debit,2022-02-01,C:\Users\shawn\PycharmProjects\BankStatementReader\Statements\360 ACCOUNT-5001-Feb-22.pdf
+OCBC,debit,2023-02-01,C:\Users\shawn\PycharmProjects\BankStatementReader\Statements\360 ACCOUNT-5001-Feb-23.pdf
+OCBC,debit,2024-02-01,C:\Users\shawn\PycharmProjects\BankStatementReader\Statements\360 ACCOUNT-5001-Feb-24.pdf
+OCBC,debit,2022-01-01,C:\Users\shawn\PycharmProjects\BankStatementReader\Statements\360 ACCOUNT-5001-Jan-22.pdf
+OCBC,debit,2023-01-01,C:\Users\shawn\PycharmProjects\BankStatementReader\Statements\360 ACCOUNT-5001-Jan-23.pdf
+OCBC,debit,2024-01-01,C:\Users\shawn\PycharmProjects\BankStatementReader\Statements\360 ACCOUNT-5001-Jan-24.pdf
+OCBC,debit,2022-07-01,C:\Users\shawn\PycharmProjects\BankStatementReader\Statements\360 ACCOUNT-5001-Jul-22.pdf
+OCBC,debit,2023-07-01,C:\Users\shawn\PycharmProjects\BankStatementReader\Statements\360 ACCOUNT-5001-Jul-23.pdf
+OCBC,debit,2022-06-01,C:\Users\shawn\PycharmProjects\BankStatementReader\Statements\360 ACCOUNT-5001-Jun-22.pdf
+OCBC,debit,2023-06-01,C:\Users\shawn\PycharmProjects\BankStatementReader\Statements\360 ACCOUNT-5001-Jun-23.pdf
+OCBC,debit,2022-03-01,C:\Users\shawn\PycharmProjects\BankStatementReader\Statements\360 ACCOUNT-5001-Mar-22.pdf
+OCBC,debit,2023-03-01,C:\Users\shawn\PycharmProjects\BankStatementReader\Statements\360 ACCOUNT-5001-Mar-23.pdf
+OCBC,debit,2022-05-01,C:\Users\shawn\PycharmProjects\BankStatementReader\Statements\360 ACCOUNT-5001-May-22.pdf
+OCBC,debit,2023-05-01,C:\Users\shawn\PycharmProjects\BankStatementReader\Statements\360 ACCOUNT-5001-May-23.pdf
+OCBC,debit,2021-11-01,C:\Users\shawn\PycharmProjects\BankStatementReader\Statements\360 ACCOUNT-5001-Nov-21.pdf
+OCBC,debit,2022-11-01,C:\Users\shawn\PycharmProjects\BankStatementReader\Statements\360 ACCOUNT-5001-Nov-22.pdf
+OCBC,debit,2023-11-01,C:\Users\shawn\PycharmProjects\BankStatementReader\Statements\360 ACCOUNT-5001-Nov-23.pdf
+OCBC,debit,2022-10-01,C:\Users\shawn\PycharmProjects\BankStatementReader\Statements\360 ACCOUNT-5001-Oct-22.pdf
+OCBC,debit,2023-10-01,C:\Users\shawn\PycharmProjects\BankStatementReader\Statements\360 ACCOUNT-5001-Oct-23.pdf
+OCBC,debit,2022-09-01,C:\Users\shawn\PycharmProjects\BankStatementReader\Statements\360 ACCOUNT-5001-Sep-22.pdf
+OCBC,debit,2023-09-01,C:\Users\shawn\PycharmProjects\BankStatementReader\Statements\360 ACCOUNT-5001-Sep-23.pdf
+OCBC,credit,2022-04-01,C:\Users\shawn\PycharmProjects\BankStatementReader\Statements\OCBC 365 CREDIT CARD-3155-Apr-22.pdf
+OCBC,credit,2023-04-01,C:\Users\shawn\PycharmProjects\BankStatementReader\Statements\OCBC 365 CREDIT CARD-3155-Apr-23.pdf
+OCBC,credit,2022-08-01,C:\Users\shawn\PycharmProjects\BankStatementReader\Statements\OCBC 365 CREDIT CARD-3155-Aug-22.pdf
+OCBC,credit,2022-12-01,C:\Users\shawn\PycharmProjects\BankStatementReader\Statements\OCBC 365 CREDIT CARD-3155-Dec-22.pdf
+OCBC,credit,2022-02-01,C:\Users\shawn\PycharmProjects\BankStatementReader\Statements\OCBC 365 CREDIT CARD-3155-Feb-22.pdf
+OCBC,credit,2023-02-01,C:\Users\shawn\PycharmProjects\BankStatementReader\Statements\OCBC 365 CREDIT CARD-3155-Feb-23.pdf
+OCBC,credit,2022-01-01,C:\Users\shawn\PycharmProjects\BankStatementReader\Statements\OCBC 365 CREDIT CARD-3155-Jan-22.pdf
+OCBC,credit,2023-01-01,C:\Users\shawn\PycharmProjects\BankStatementReader\Statements\OCBC 365 CREDIT CARD-3155-Jan-23.pdf
+OCBC,credit,2022-07-01,C:\Users\shawn\PycharmProjects\BankStatementReader\Statements\OCBC 365 CREDIT CARD-3155-Jul-22.pdf
+OCBC,credit,2022-06-01,C:\Users\shawn\PycharmProjects\BankStatementReader\Statements\OCBC 365 CREDIT CARD-3155-Jun-22.pdf
+OCBC,credit,2022-03-01,C:\Users\shawn\PycharmProjects\BankStatementReader\Statements\OCBC 365 CREDIT CARD-3155-Mar-22.pdf
+OCBC,credit,2023-03-01,C:\Users\shawn\PycharmProjects\BankStatementReader\Statements\OCBC 365 CREDIT CARD-3155-Mar-23.pdf
+OCBC,credit,2022-05-01,C:\Users\shawn\PycharmProjects\BankStatementReader\Statements\OCBC 365 CREDIT CARD-3155-May-22.pdf
+OCBC,credit,2022-11-01,C:\Users\shawn\PycharmProjects\BankStatementReader\Statements\OCBC 365 CREDIT CARD-3155-Nov-22.pdf
+OCBC,credit,2022-10-01,C:\Users\shawn\PycharmProjects\BankStatementReader\Statements\OCBC 365 CREDIT CARD-3155-Oct-22.pdf
+OCBC,credit,2022-09-01,C:\Users\shawn\PycharmProjects\BankStatementReader\Statements\OCBC 365 CREDIT CARD-3155-Sep-22.pdf
